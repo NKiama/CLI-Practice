@@ -3,3 +3,5 @@ Inside, create file day1.txt
 Create repo on GitHub
 Push CLI-Practice
 Add 2 fun lines of ur choice
+I love cars and motorsports in general
+I love mechanics and would love to do Mechanical Engineering
