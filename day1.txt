@@ -1,0 +1,5 @@
+Create Folder CLI-Practice
+Inside, create file day1.txt
+Create repo on GitHub
+Push CLI-Practice
+Add 2 fun lines of ur choice
